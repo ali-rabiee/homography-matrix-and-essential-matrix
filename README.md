@@ -9,4 +9,4 @@ c) Find the essential matrices between each two views using python packages.
 d) Repeat (b) for new essential matrices.
 e) Find the MSE of the essential matrices obtained by using 8-point algorithm and python packages for each transformations 1-2, 2-3, 1-3.
 
-Advanced computer vision project (Fall 2021)
+Advanced computer vision project (Fall 2020)
